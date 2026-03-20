@@ -1,2 +1,3 @@
-# core-marketplace-jwcq
-Repository to test GitHub automation for issue management
+# Core Marketplace Jwcq
+
+A repository to test GitHub automation for issue management.
